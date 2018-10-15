@@ -1,2 +1,2 @@
-# Solution
-AI based chat-bot.
+# Movie prediction system
+Project in AI class.
