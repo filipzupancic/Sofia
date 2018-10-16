@@ -1,2 +1,2 @@
-# Movie prediction system
-Project in AI class.
+# Movie recommendation system
+Project in AI class. 
